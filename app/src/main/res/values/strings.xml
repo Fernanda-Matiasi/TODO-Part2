@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoPart2</string>
+
+    <string name="button_add">Adicionar Tarefa</string>
+</resources>
